@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.000webhostapp.ecotourapp.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.ecotourapp.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
     <name>Añoranzas Chaqueñas App</name>
     <description>Blog de Actividades y Comentarios</description>
